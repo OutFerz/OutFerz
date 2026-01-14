@@ -33,9 +33,9 @@
 ## 📊 Mi Actividad en GitHub
 Aquí tienes un resumen real de mi trabajo y contribuciones:
 
-![Commits](https://img.shields.io/github/commit-activity/y/OutFerz?style=for-the-badge&logo=github&color=30A14E)
 ![Followers](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=0077B5)
-![Top Language](https://img.shields.io/github/languages/top/Tornadusk/NUAM?style=for-the-badge&logo=python&color=yellow&label=NUAM%20Stack)
+![NUAM Stack](https://img.shields.io/github/languages/top/Tornadusk/NUAM?style=for-the-badge&logo=python&color=yellow&label=NUAM%20Stack)
+![Repo Size](https://img.shields.io/github/repo-size/Tornadusk/NUAM?style=for-the-badge&logo=github&color=blue)
 
 ---
 
