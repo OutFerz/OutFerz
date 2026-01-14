@@ -5,12 +5,12 @@
 
 ## 🚀 Sobre mí
 
-> Soy estudiante de **Ingeniería en Informática en INACAP**, con una sólida formación en desarrollo de software, bases de datos y sistemas computacionales. 
+> Soy estudiante de **Ingeniería en Informática en INACAP**, con formación técnica en desarrollo de software, bases de datos y sistemas computacionales.
 
 * 💻 **Especialidad:** Trabajo principalmente con **Python**, enfocado en Programación Orientada a Objetos (POO), desarrollo Backend con **Django** y creación de **APIs REST**.
 * 📱 **Móvil:** Desarrollo de aplicaciones utilizando **Android Studio con Kotlin**.
-* 🛡️ **Habilidades Técnicas:** Experiencia en modelamiento de soluciones, metodologías ágiles y fundamentos de seguridad de la información.
-* 🐧 **Entornos:** Experiencia operativa tanto en **Windows** como en **Linux**.
+* 🛡️ **Habilidades:** Experiencia en modelamiento de soluciones, metodologías ágiles y fundamentos de seguridad de la información.
+* 🐧 **Sistemas:** Experiencia operativa tanto en entornos **Windows** como **Linux**.
 
 ---
 
@@ -18,26 +18,26 @@
 
 ### **Lenguajes y Desarrollo**
 [![My Skills](https://skillicons.dev/icons?i=python,django,kotlin,androidstudio)](https://skillicons.dev)
-* **Backend:** Django, Django REST Framework, APIs REST.
+* **Backend:** Django, Django REST Framework y APIs REST.
 * **Lógica:** Python (POO) y Kotlin.
 
 ### **Gestión de Datos**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-* **Estructurado:** SQL y Oracle.
-* **No Estructurado:** MongoDB.
+* **Bases de Datos:** Experiencia en Oracle (SQL) y MongoDB.
 
 ### **Herramientas y DevOps**
 [![Tools](https://skillicons.dev/icons?i=docker,git,linux,windows)](https://skillicons.dev)
-* **Versiones:** Git / GitHub.
+* **Control de versiones:** Git y GitHub.
 * **Infraestructura:** Docker y administración de sistemas.
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OutFerz&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutFerz&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
+## 📊 Estadísticas Dinámicas (GitHub)
+Aquí puedes ver mi actividad actual en la plataforma:
+
+![Commits](https://img.shields.io/github/commit-activity/m/OutFerz?style=for-the-badge&logo=github&color=blue)
+![Repositorios](https://img.shields.io/badge/Repositorios_Públicos-DYNAMIC-green?style=for-the-badge&logo=github)
+![Seguidores](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=purple)
 
 ---
 
