@@ -1,4 +1,4 @@
-# Fernando 👋
+# Fernando Pizarro
 ### Estudiante de Ingeniería en Informática en INACAP | Backend Developer
 
 ---
@@ -42,9 +42,9 @@ Aquí tienes un resumen real de mi trabajo y contribuciones:
 ## 🔗 Conectemos
 ¡Hablemos de tecnología o posibles colaboraciones!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-pizarro-osses-629bba3a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OutFerz)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpizarro1101@gmail.com)
 
 ---
 
