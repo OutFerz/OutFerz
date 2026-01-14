@@ -39,6 +39,18 @@ A summary of my work and recent contributions:
 
 ---
 
+## 📂 Featured Project: NUAM
+
+**NUAM** is a specialized project where I am currently implementing advanced backend architectures and modern development practices.
+
+* **Objective:** Developing a robust, scalable system architecture.
+* **Key Tech:** Python, Django, and specialized API integrations.
+* **Focus:** Clean Code, modularity, and optimized database management.
+
+[👉 View Repository](https://github.com/Tornadusk/NUAM)
+
+---
+
 ## 🔗 Let's Connect
 I'm always open to discussing technology, software architecture, or potential collaborations!
 
