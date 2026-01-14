@@ -1,41 +1,46 @@
-# Hola, soy Fernando 👋
-### Estudiante de Ingeniería en Informática | Backend & Mobile Developer
+# Fernando 👋
+### Estudiante de Ingeniería en Informática en INACAP | Backend Developer
 
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de **Ingeniería en Informática en INACAP**. Me apasiona construir soluciones robustas y escalables, con un enfoque especial en la arquitectura backend y el desarrollo móvil.
 
-- 💻 **Backend:** Especializado en **Python**, **Django** y **API REST**.
-- 📱 **Mobile:** Desarrollo de aplicaciones nativas con **Kotlin** y **Android Studio**.
-- 🗄️ **Bases de Datos:** Experiencia con **Oracle SQL** y **MongoDB**.
-- ⚙️ **Sistemas:** Manejo fluido de entornos **Windows y Linux**.
+> Soy estudiante de **Ingeniería en Informática**, apasionado por el desarrollo de software y la arquitectura backend. Mi formación académica y proyectos personales me han permitido dominar diversas tecnologías del stack moderno.
+
+* 💻 **Especialidad:** Desarrollo Backend con **Python**, **Django** y **API REST**.
+* 📱 **Móvil:** Creación de aplicaciones con **Android Studio y Kotlin**.
+* 🛡️ **Seguridad:** Aplicación de fundamentos de seguridad de la información y metodologías ágiles.
+* 🐧 **Entornos:** Gestión de sistemas en **Windows y Linux**.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tecnologías y Herramientas
 
+### **Desarrollo y Lenguajes**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,kotlin,androidstudio,mongodb,docker,git,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=python,django,kotlin,androidstudio,docker,git,linux,windows" />
   </a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="50" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
 </p>
+
+### **Bases de Datos**
+* **Relacionales:** Oracle SQL Developer.
+* **No Relacionales:** MongoDB.
 
 ---
 
 ## 📊 Mi Actividad en GitHub
-Para evitar errores de carga, he configurado estas tarjetas que se actualizan automáticamente con tu actividad global:
+Aquí tienes un resumen real de mi trabajo y contribuciones:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OutFerz&show_icons=true&theme=radical&hide_border=true" alt="Stats de Fernando" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutFerz&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" height="170" />
-</p>
+![Commits](https://img.shields.io/github/commit-activity/y/OutFerz?style=for-the-badge&logo=github&color=30A14E)
+![Followers](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=0077B5)
+![Top Language](https://img.shields.io/github/languages/top/Tornadusk/NUAM?style=for-the-badge&logo=python&color=yellow&label=NUAM%20Stack)
 
 ---
 
 ## 🔗 Conectemos
-¡Hablemos de tecnología o de posibles colaboraciones!
+¡Hablemos de tecnología o posibles colaboraciones!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO-AQUI)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OutFerz)
@@ -43,7 +48,7 @@ Para evitar errores de carga, he configurado estas tarjetas que se actualizan au
 
 ---
 
-## 🎯 En qué estoy trabajando
-- 🏗️ Mejorando el proyecto **NUAM** con bases de datos **Oracle**.
-- 📘 Estudiando **Ingeniería de Software** y metodologías ágiles en INACAP.
-- 🚀 Explorando el despliegue de contenedores con **Docker**.
+## 🎯 Objetivos 2026
+* ⚙️ Perfeccionar el despliegue de aplicaciones con **Docker**.
+* 📚 Implementar mejores prácticas de ingeniería de software en el proyecto **NUAM**.
+* 🚀 Contribuir a proyectos de código abierto.
