@@ -1,54 +1,54 @@
-# Fernando 👋
-### Estudiante de Ingeniería en Informática | Desarrollo de Software & Backend
+# Fernando Pizarro
+### Estudiante de Ingeniería en Informática en INACAP | Backend Developer
 
 ---
 
 ## 🚀 Sobre mí
 
-> Soy estudiante de **Ingeniería en Informática en INACAP**, con formación técnica en desarrollo de software, bases de datos y sistemas computacionales.
+> Soy estudiante de **Ingeniería en Informática**, apasionado por el desarrollo de software y la arquitectura backend. Mi formación académica y proyectos personales me han permitido dominar diversas tecnologías del stack moderno.
 
-* 💻 **Especialidad:** Trabajo principalmente con **Python**, enfocado en Programación Orientada a Objetos (POO), desarrollo Backend con **Django** y creación de **APIs REST**.
-* 📱 **Móvil:** Desarrollo de aplicaciones utilizando **Android Studio con Kotlin**.
-* 🛡️ **Habilidades:** Experiencia en modelamiento de soluciones, metodologías ágiles y fundamentos de seguridad de la información.
-* 🐧 **Sistemas:** Experiencia operativa tanto en entornos **Windows** como **Linux**.
+* 💻 **Especialidad:** Desarrollo Backend con **Python**, **Django** y **API REST**.
+* 📱 **Móvil:** Creación de aplicaciones con **Android Studio y Kotlin**.
+* 🛡️ **Seguridad:** Aplicación de fundamentos de seguridad de la información y metodologías ágiles.
+* 🐧 **Entornos:** Gestión de sistemas en **Windows y Linux**.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-### **Lenguajes y Desarrollo**
-[![My Skills](https://skillicons.dev/icons?i=python,django,kotlin,androidstudio)](https://skillicons.dev)
-* **Backend:** Django, Django REST Framework y APIs REST.
-* **Lógica:** Python (POO) y Kotlin.
+### **Desarrollo y Lenguajes**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,kotlin,androidstudio,docker,git,linux,windows" />
+  </a>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
+</p>
 
-### **Gestión de Datos**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-* **Bases de Datos:** Experiencia en Oracle (SQL) y MongoDB.
-
-### **Herramientas y DevOps**
-[![Tools](https://skillicons.dev/icons?i=docker,git,linux,windows)](https://skillicons.dev)
-* **Control de versiones:** Git y GitHub.
-* **Infraestructura:** Docker y administración de sistemas.
+### **Bases de Datos**
+* **Relacionales:** Oracle SQL Developer.
+* **No Relacionales:** MongoDB.
 
 ---
 
-## 📊 Estadísticas Dinámicas (GitHub)
-Aquí puedes ver mi actividad actual en la plataforma:
+## 📊 Mi Actividad en GitHub
+Aqui tienes un resumen real de mi trabajo en la plataforma:
 
-![Commits](https://img.shields.io/github/commit-activity/m/OutFerz?style=for-the-badge&logo=github&color=blue)
-![Repositorios](https://img.shields.io/badge/Repositorios_Públicos-DYNAMIC-green?style=for-the-badge&logo=github)
-![Seguidores](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=purple)
-
----
-
-## 🔗 Contacto
-* **LinkedIn:** [Tu Perfil Profesional](https://www.linkedin.com/in/TU-USUARIO)
-* **GitHub:** [OutFerz](https://github.com/OutFerz)
+![Commits](https://img.shields.io/github/commit-activity/y/OutFerz?style=for-the-badge&logo=github&color=30A14E)
+![Followers](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=0077B5)
+![Top Language](https://img.shields.io/github/languages/top/OutFerz/NUAM?style=for-the-badge&logo=python&color=yellow)
 
 ---
 
-## 🎯 Objetivos Actuales
-Actualmente estoy enfocado en fortalecer mis conocimientos en:
-1. **Desarrollo Backend** avanzado.
-2. **Buenas prácticas** de ingeniería de software.
-3. **Despliegue** de aplicaciones.
+## 🔗 Conectemos
+Para que mi perfil sea más dinámico, puedes contactarme a través de estos canales:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OutFerz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@gmail.com)
+
+---
+
+## 🎯 Objetivos 2026
+* ⚙️ Perfeccionar el despliegue de aplicaciones con **Docker**.
+* 📚 Implementar mejores prácticas de ingeniería de software en mi proyecto **NUAM**.
+* 🚀 Contribuir a proyectos de código abierto.
