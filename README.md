@@ -1,4 +1,4 @@
-# Fernando Pizarro 👋
+# Fernando 👋
 ### Estudiante de Ingeniería en Informática | Desarrollo de Software & Backend
 
 ---
@@ -35,15 +35,15 @@
 
 ## 📊 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tornadusk&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tornadusk&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OutFerz&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OutFerz&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ## 🔗 Contacto
-* **LinkedIn:** [Tu Perfil Profesional](https://www.linkedin.com/in/fernando-pizarro-osses-629bba3a5/)
-* **GitHub:** [OutFerz](https://github.com/OutFerez)
+* **LinkedIn:** [Tu Perfil Profesional](https://www.linkedin.com/in/TU-USUARIO)
+* **GitHub:** [OutFerz](https://github.com/OutFerz)
 
 ---
 
