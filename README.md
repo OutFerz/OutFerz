@@ -1,5 +1,5 @@
 # Fernando Pizarro
-### Computer Engineering Student at INACAP | Backend Developer
+### Computer Engineering Student at INACAP | Software Developer
 
 ---
 
