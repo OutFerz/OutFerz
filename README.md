@@ -47,8 +47,7 @@ A summary of my work and recent contributions:
 * **Key Tech:** Python, Django, and specialized API integrations.
 * **Focus:** Clean Code, modularity, and optimized database management.
 
-[👉 View Repository](https://github.com/Tornadusk/NUAM)
-
+[![Main Project: NUAM](https://img.shields.io/badge/Main_Project-NUAM-blue?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Tornadusk/NUAM)
 ---
 
 ## 🔗 Let's Connect
