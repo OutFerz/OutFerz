@@ -1,37 +1,37 @@
 # Fernando Pizarro
-### Estudiante de Ingeniería en Informática en INACAP | Backend Developer
+### Computer Engineering Student at INACAP | Backend Developer
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-> Soy estudiante de **Ingeniería en Informática**, apasionado por el desarrollo de software y la arquitectura backend. Mi formación académica y proyectos personales me han permitido dominar diversas tecnologías del stack moderno.
+> I am a **Computer Engineering** student passionate about software development and backend architecture. My academic background and personal projects have driven me to master various technologies within the modern stack.
 
-* 💻 **Especialidad:** Desarrollo Backend con **Python**, **Django** y **API REST**.
-* 📱 **Móvil:** Creación de aplicaciones con **Android Studio y Kotlin**.
-* 🛡️ **Seguridad:** Aplicación de fundamentos de seguridad de la información y metodologías ágiles.
-* 🐧 **Entornos:** Gestión de sistemas en **Windows y Linux**.
+* 💻 **Core Specialty:** Backend Development using **Python**, **Django**, and **RESTful APIs**.
+* 📱 **Mobile Development:** Building applications with **Android Studio** and **Kotlin**.
+* 🛡️ **Security & Methodology:** Applying information security fundamentals and **Agile** methodologies.
+* 🐧 **Environments:** Proficient in managing **Windows** and **Linux** systems.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies & Tools
 
-### **Desarrollo y Lenguajes**
+### **Development & Languages**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,kotlin,androidstudio,docker,git,linux,windows" />
   </a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="48" alt="Oracle" />
 </p>
 
-### **Bases de Datos**
-* **Relacionales:** Oracle SQL Developer.
-* **No Relacionales:** MongoDB.
+### **Databases**
+* **Relational:** Oracle SQL Developer.
+* **Non-Relational:** MongoDB.
 
 ---
 
-## 📊 Mi Actividad en GitHub
-Aquí tienes un resumen real de mi trabajo y contribuciones:
+## 📊 GitHub Activity
+A summary of my work and recent contributions:
 
 ![Followers](https://img.shields.io/github/followers/OutFerz?style=for-the-badge&logo=github&color=0077B5)
 ![NUAM Stack](https://img.shields.io/github/languages/top/Tornadusk/NUAM?style=for-the-badge&logo=python&color=yellow&label=NUAM%20Stack)
@@ -39,8 +39,8 @@ Aquí tienes un resumen real de mi trabajo y contribuciones:
 
 ---
 
-## 🔗 Conectemos
-¡Hablemos de tecnología o posibles colaboraciones!
+## 🔗 Let's Connect
+I'm always open to discussing technology, software architecture, or potential collaborations!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-pizarro-osses-629bba3a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OutFerz)
@@ -48,7 +48,7 @@ Aquí tienes un resumen real de mi trabajo y contribuciones:
 
 ---
 
-## 🎯 Objetivos 2026
-* ⚙️ Perfeccionar el despliegue de aplicaciones con **Docker**.
-* 📚 Implementar mejores prácticas de ingeniería de software en el proyecto **NUAM**.
-* 🚀 Contribuir a proyectos de código abierto.
+## 🎯 2026 Goals
+* ⚙️ Mastering containerization and deployment with **Docker**.
+* 📚 Implementing advanced software engineering patterns in the **NUAM** project.
+* 🚀 Increasing my contributions to the open-source community.
